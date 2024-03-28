@@ -11,6 +11,9 @@
 # production
 /build
 
+# onnx models
+*.onnx
+
 # misc
 .DS_Store
 .env.local
